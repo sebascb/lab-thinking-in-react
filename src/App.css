@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.inputBar {
+  width: 40rem;
+  height: 2rem;
+}
+
+.checkBox {
+  margin-top: 1rem;
+  letter-spacing: 0.1rem;
+}
+
